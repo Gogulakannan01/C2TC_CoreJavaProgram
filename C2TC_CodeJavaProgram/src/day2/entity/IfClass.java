@@ -1,4 +1,4 @@
-package data1.basic;
+package day2.entity;
 
 public class IfClass {
 

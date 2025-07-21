@@ -1,4 +1,4 @@
-package data1.basic;
+package day2.entity;
 
 import java.util.*;
 public class AdditionUserInput {
